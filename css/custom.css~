@@ -1,0 +1,116 @@
+.editicon{ 
+	background: url(../images/forms/edit.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.viewicon{
+	background: url(../images/forms/eye.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.deleteicon{
+	background: url(../images/forms/trash.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.activeicon{
+	background: url(../images/forms/status-green.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.deactiveicon{
+	background: url(../images/forms/status-red.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.previewicon{
+	background: url(../images/forms/editor_preview.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+
+.activeusericon{
+	background: url(../images/forms/active.gif) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.deactiveusericon{
+	background: url(../images/forms/deactive.gif) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+
+.verifyactiveicon{
+	background: url(../images/forms/tick-green.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.verifydeactiveicon{
+	background: url(../images/forms/cross-red.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.usertasksicon{
+	background: url(../images/forms/cross-red.png) no-repeat !important;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+.asc{background:url("../images/sort/sorting-asc.png") no-repeat right center #eee}
+.desc{background:url("../images/sort/sorting-desc.png") no-repeat right center #eee}
+.sorting{background:url("../images/sort/sorting.png") no-repeat right center #eee}
+.sorting,.desc,.asc{padding-right:30px;white-space:nowrap}
+table a{color:#333333;}
+.nav-list > li > a.active{
+    background-color:#EEEEEE;
+}
+table .active{color:#005580 !important;text-decoration:underline;}
+table .active a{color:#005580 !important;text-decoration:underline;}
+.alignradio{margin:0px 10px 0px !important;}
+.leftpart{
+width:560px; border-right: 1px solid #DDDDDD;float:left;
+}.rightpart{
+width:544px;float:left;
+}
+.errorSummary
+{
+	border: 2px solid #C00;
+	padding: 7px 7px 12px 7px;
+	/*margin: 0 0 20px 0;*/
+	background: #FEE;
+	font-size: 0.9em;
+}
+.errorSummary p
+{
+	margin: 0;
+	padding: 5px;
+}
+
+.errorSummary ul
+{
+	margin: 0;
+	padding: 0 0 0 20px;
+}
+.success
+{
+	background: #E6EFC2;
+	border-color: #C6D880;
+}
+.errorMessage
+{
+	color: red;
+	font-size: 0.9em;
+}
+.leftmenuselected{
+    background-color: #90A4A4;
+}
